@@ -8,7 +8,7 @@ Model Architecture
 The model is a simple neural network with the following architecture:
 
 * Input layer: 784 neurons (flattened 28x28 images)
-* Hidden layer: 128 neurons, ReLU activation
+* Hidden layer: 100 neurons, ReLU activation
 * Output layer: 10 neurons, softmax activation
 Requirements
 * Python 3.x
